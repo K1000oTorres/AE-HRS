@@ -1,0 +1,6 @@
+Resultados para lambda_2 = 1.0, lambda_s = 1e-06
+Epoch: 10  best rmse: 0.098244
+Epoch: 10  best mae: 0.068516
+Epoch: 10  best ndcg: 0.987434
+RMSE Y^test: 0.561368
+MAE Y^test: 0.549814

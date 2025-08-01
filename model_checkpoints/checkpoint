@@ -1,0 +1,2 @@
+model_checkpoint_path: "LGlobalK_best_rmse_val.ckpt"
+all_model_checkpoint_paths: "LGlobalK_best_rmse_val.ckpt"
