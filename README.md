@@ -1,10 +1,10 @@
-# GLocalK
+# AE - HRS
 
-Este repositorio contiene el código y los archivos necesarios para ejecutar el modelo GLocalK.
+Este repositorio contiene el código y los archivos necesarios para ejecutar el modelo.
 
 ## 📦 Requisitos
 
-- [Anaconda](https://www.anaconda.com/products/distribution) (recomendado) o Miniconda
+- [Anaconda](https://www.anaconda.com/products/distribution) (recomendado)
 - Git
 
 ## 🚀 Instalación
@@ -14,3 +14,8 @@ Este repositorio contiene el código y los archivos necesarios para ejecutar el 
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
+```
+### 2. Crea el entorno Conda desde el archivo environment.yml
+```bash
+conda env create -f environment.yml
+```
