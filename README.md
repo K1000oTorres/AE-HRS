@@ -12,8 +12,7 @@ Este repositorio contiene el código y los archivos necesarios para ejecutar el 
 ### 1. Clona este repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/K1000oTorres/AE-HRS.git
 ```
 ### 2. Crea el entorno Conda desde el archivo environment.yml
 ```bash
